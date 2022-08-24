@@ -1,4 +1,4 @@
-Merged mining, DGB and Dash support in other Branches: https://github.com/farsider350/p2pool-oneclick/branches
+Merged mining, DGB and Dash support in other Branches: https://github.com/criptolot/p2pool-Litecoin/branches
 
 ***p2pool-oneclick***
 
@@ -8,18 +8,18 @@ Merged mining, DGB and Dash support in other Branches: https://github.com/farsid
 
 **Run in terminal**
 
-		git clone https://github.com/farsider350/p2pool-oneclick.git ~/p2pool-oneclick
-		cd ~/p2pool-oneclick
+		git clone https://github.com/criptolot/p2pool-Litecoin.git ~/p2pool-Litecoin
+		cd ~/p2pool-Litecoin
 		chmod a+x install.sh
 		./install.sh
 		
-Once finished, start Core Wallet of choice, you can copy the ~/p2pool-oneclick/Start-P2pool/ folder anywhere you like and run by Double Clicking the desired p2pool from within the folder.
+Once finished, start Core Wallet of choice, you can copy the ~/p2pool-Litecoin/Start-P2pool/ folder anywhere you like and run by Double Clicking the desired p2pool from within the folder.
 
 		Forward ports 9326-9327 for LTC and 9332-9333 for BTC to access your node from outside your local network and to get better peer connections.
 
 **Running optional commands:**
 
-		cd p2pool-oneclick
+		cd p2pool-Litecoin
 		nano btcp2pool.sh
 		or
 		nano ltcp2pool.sh
@@ -132,4 +132,4 @@ Once finished, start Core Wallet of choice, you can copy the ~/p2pool-oneclick/S
 		
 ***Donations***
 
-		LTC:	LZFdCAGnxQr5JMSvqwV7AFwHKoPdL2RAdU
+		LTC:	LUwRErqpeQk29vXabSD8mHwkqBhWbt8ms
