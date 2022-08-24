@@ -3,5 +3,5 @@ Encoding=UTF-8
 Type=Application
 Name=LTC-P2pool-Start
 Icon=utilities-terminal
-Exec=gnome-terminal -e "sh -c './p2pool-oneclick/ltcp2pool.sh'"
+Exec=gnome-terminal -e "sh -c './p2pool-Litecoin/ltcp2pool.sh'"
 Categories=Application;
