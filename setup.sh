@@ -28,4 +28,4 @@ mv node-stats web-static
 cd litecoin_scrypt
 sudo pypy setup.py install
 cd ~
-cd p2pool-oneclick
+cd p2pool-Litecoin
